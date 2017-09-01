@@ -1,0 +1,10 @@
+Package: se.nosskirneh.clearbadges
+Name: ClearBadges
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Double tap on an icon in editing mode to clear badges
+Depiction: https://andreashenriksson.se/repo/depictions/?p=se.nosskirneh.clearbadges
+Maintainer: Andreas Henriksson
+Author: Andreas Henriksson
+Section: Tweaks
